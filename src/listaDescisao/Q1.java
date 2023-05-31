@@ -1,4 +1,4 @@
-//Faça um Programa que peça dois números e imprima o maior deles.
+package listaDescisao;
 import java.util.Scanner;
 public class Q1 {
     public static void main(String[] args){

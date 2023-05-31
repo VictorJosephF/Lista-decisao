@@ -1,4 +1,4 @@
-//Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+package listaDescisao;
 import java.util.Scanner;
 public class Q2 {
     public static void main(String[] args){

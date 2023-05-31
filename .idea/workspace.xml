@@ -4,19 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="034d3463-f13c-438a-8787-0b143bdb03ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista_Decisao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5.java" afterDir="false" />
+    <list default="true" id="034d3463-f13c-438a-8787-0b143bdb03ee" name="Changes" comment="Lista descisão">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +62,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/victo/projects/java/Lista-decisao"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,5 +76,9 @@
       <updated>1683474295952</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lista descisão" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lista descisão" />
   </component>
 </project>

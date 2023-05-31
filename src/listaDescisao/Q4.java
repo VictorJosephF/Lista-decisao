@@ -1,5 +1,4 @@
-//Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
-
+package listaDescisao;
 import java.util.Scanner;
 public class Q4 {
     public static void main(String[] args){

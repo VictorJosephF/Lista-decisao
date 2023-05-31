@@ -1,3 +1,4 @@
+package listaDescisao;
 import java.util.Scanner;
 public class Q19 {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-//Faça um Programa que leia três números e mostre o maior deles.
+package listaDescisao;
 import java.util.Scanner;
 public class Q6 {
     public static void main(String[] args){
